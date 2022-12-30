@@ -1,0 +1,7 @@
+{
+  "name": "vanilla-repro",
+  "version": "1.0.0",
+  "description": "A reproduction of an installation error for @vanilla-extract/next-plugin",
+  "author": "Artur Muller",
+  "license": "MIT"
+}
